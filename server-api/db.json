@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "174ceb88-e0a8-4eee-ab46-b32c3e82850e",
+      "name": "Marcelo Dias",
+      "email": "marcelo@gmail.com"
+    },
+    {
+      "id": "ee973437-9f5b-484e-b133-6e8fcb88deb8",
+      "name": "Heitor Dias",
+      "email": "heitor@gmail.com"
+    }
+  ]
+}
